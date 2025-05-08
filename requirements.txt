@@ -1,0 +1,11 @@
+Tools You Need
+Python 3.x
+
+Pip
+
+Flask
+
+PyMongo
+
+MongoDB Atlas (free cloud database)
+
