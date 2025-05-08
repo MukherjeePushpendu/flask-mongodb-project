@@ -89,21 +89,3 @@ Pull requests are welcome! Feel free to fork the repo and improve the code.
 
 
 
- 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-
-
- 🙋‍♂️ Author
-
-Pushpendu Mukherjee
-🔗 [LinkedIn](https://www.linkedin.com/)
-🔗 [GitHub](https://github.com/yourusername)
-
-
-
-
-
-Would you like me to fill in your actual GitHub link and export this as a README.md file you can upload directly?
-
